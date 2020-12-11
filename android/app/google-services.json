@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58178385435",
+    "firebase_url": "https://frenchfry-42ac3.firebaseio.com",
+    "project_id": "frenchfry-42ac3",
+    "storage_bucket": "frenchfry-42ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58178385435:android:d074d727e264da42972abe",
+        "android_client_info": {
+          "package_name": "app.frenchfry.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58178385435-ssa6u6hnmes6ok2r9nd33d2316svsnv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp73EvQsNCEDk_ShjXsaBhf-LF9r_TTOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58178385435-ssa6u6hnmes6ok2r9nd33d2316svsnv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58178385435-3lgcrqhqmf13ddc9achhcs7uruajhrmt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.frenchfry.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
